@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\augus\OneDrive\Skrivebord\Musikquiz\musikquiz\venv"
+VIRTUAL_ENV="C:\Projects\musikquiz\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
